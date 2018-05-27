@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Aenaroon here, I like Node. (?) and Cofeescript (?)
